@@ -1,2 +1,2 @@
 # BrightnessController
-Increases or decreases the brightness on linux systems.
+Increases or decreases the screen brightness on linux systems.
